@@ -231,4 +231,6 @@ class: center, middle
 
 * 建築科
 
+http://www.tck.ac.jp/
+
 
